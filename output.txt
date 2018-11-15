@@ -1,0 +1,370 @@
+*********************
+neutral
+*********************
+relevance = 0.915195
+Keyword :European Council president
+relevance = 0.589108
+Keyword :Theresa
+relevance = 0.560734
+Keyword :agenda
+relevance = 0.500449
+Keyword :talks
+relevance = 0.321247
+Keyword :Brexit
+relevance = 0.319286
+Keyword :https://t.co/cM8lH3YYYX
+*********************
+neutral
+*********************
+relevance = 0.952626
+Keyword :Learnt
+relevance = 0.64676
+Keyword :Things
+relevance = 0.636383
+Keyword :Results
+*********************
+neutral
+*********************
+relevance = 0.984018
+Keyword :Brexit economic strategy
+relevance = 0.720004
+Keyword :Governor
+relevance = 0.563145
+Keyword :Bank
+relevance = 0.561882
+Keyword :England
+relevance = 0.557462
+Keyword :https://t.co/0w6ik4hvNf
+*********************
+neutral
+*********************
+relevance = 0.904892
+Keyword :Kingdom     brexit FB
+relevance = 0.42608
+Keyword :https://t.co/mbXPeVc5xk  https://t.co/noyy28qp6h
+relevance = 0.210875
+Keyword :United
+relevance = 0.210469
+Keyword :page
+*********************
+negative
+*********************
+relevance = 0.991979
+Keyword :Permanent Appointments
+relevance = 0.922156
+Keyword :Months.  effect
+relevance = 0.575991
+Keyword :Time
+relevance = 0.570851
+Keyword :https://t.co/FAyB5I0oPk
+relevance = 0.570681
+Keyword :report
+*********************
+negative
+*********************
+relevance = 0.962402
+Keyword :Government  department  spending
+relevance = 0.317229
+Keyword :lawyers
+relevance = 0.316699
+Keyword :https://t.co/yMu9M0UwNP
+*********************
+neutral
+*********************
+relevance = 0.969701
+Keyword :electorate
+relevance = 0.802184
+Keyword :representatives
+relevance = 0.696431
+Keyword :https://t.co/qsutVj01ZH
+*********************
+neutral
+*********************
+relevance = 0.916502
+Keyword :https://t.co/eKgy6acWyS
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.905608
+Keyword :new Pukka pad
+relevance = 0.44571
+Keyword :pen
+relevance = 0.353952
+Keyword :paper
+*********************
+negative
+*********************
+relevance = 0.924348
+Keyword :post  sulk  https://t.co/nc5WZtZiGK
+relevance = 0.872157
+Keyword :smug dig
+relevance = 0.867617
+Keyword :Proms patriotism
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+negative
+*********************
+relevance = 0.991979
+Keyword :Permanent Appointments
+relevance = 0.922156
+Keyword :Months.  effect
+relevance = 0.575991
+Keyword :Time
+relevance = 0.570851
+Keyword :https://t.co/FAyB5I0oPk
+relevance = 0.570681
+Keyword :report
+*********************
+negative
+*********************
+relevance = 0.962402
+Keyword :Government  department  spending
+relevance = 0.317229
+Keyword :lawyers
+relevance = 0.316699
+Keyword :https://t.co/yMu9M0UwNP
+*********************
+neutral
+*********************
+relevance = 0.969701
+Keyword :electorate
+relevance = 0.802184
+Keyword :representatives
+relevance = 0.696431
+Keyword :https://t.co/qsutVj01ZH
+*********************
+neutral
+*********************
+relevance = 0.916502
+Keyword :https://t.co/eKgy6acWyS
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.905608
+Keyword :new Pukka pad
+relevance = 0.44571
+Keyword :pen
+relevance = 0.353952
+Keyword :paper
+*********************
+negative
+*********************
+relevance = 0.924348
+Keyword :post  sulk  https://t.co/nc5WZtZiGK
+relevance = 0.872157
+Keyword :smug dig
+relevance = 0.867617
+Keyword :Proms patriotism
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+neutral
+*********************
+relevance = 0.998955
+Keyword :Brexit
+relevance = 0.948375
+Keyword :holidays
+*********************
+positive
+*********************
+relevance = 0.965603
+Keyword :BRANDING
+relevance = 0.327564
+Keyword :IMPOANT
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+negative
+*********************
+relevance = 0.991979
+Keyword :Permanent Appointments
+relevance = 0.922156
+Keyword :Months.  effect
+relevance = 0.575991
+Keyword :Time
+relevance = 0.570851
+Keyword :https://t.co/FAyB5I0oPk
+relevance = 0.570681
+Keyword :report
+*********************
+negative
+*********************
+relevance = 0.962402
+Keyword :Government  department  spending
+relevance = 0.317229
+Keyword :lawyers
+relevance = 0.316699
+Keyword :https://t.co/yMu9M0UwNP
+*********************
+neutral
+*********************
+relevance = 0.969701
+Keyword :electorate
+relevance = 0.802184
+Keyword :representatives
+relevance = 0.696431
+Keyword :https://t.co/qsutVj01ZH
+*********************
+neutral
+*********************
+relevance = 0.916502
+Keyword :https://t.co/eKgy6acWyS
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.934558
+Keyword :new revolt
+relevance = 0.789007
+Keyword :EU states
+*********************
+negative
+*********************
+relevance = 0.905608
+Keyword :new Pukka pad
+relevance = 0.44571
+Keyword :pen
+relevance = 0.353952
+Keyword :paper
+*********************
+negative
+*********************
+relevance = 0.924348
+Keyword :post  sulk  https://t.co/nc5WZtZiGK
+relevance = 0.872157
+Keyword :smug dig
+relevance = 0.867617
+Keyword :Proms patriotism
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+neutral
+*********************
+relevance = 0.998955
+Keyword :Brexit
+relevance = 0.948375
+Keyword :holidays
+*********************
+positive
+*********************
+relevance = 0.965603
+Keyword :BRANDING
+relevance = 0.327564
+Keyword :IMPOANT
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+*********************
+neutral
+*********************
+relevance = 0.997592
+Keyword :m\u0102\u0160pris \u0102\u00a0 l'\u0102\u0160gard
+relevance = 0.899223
+Keyword :peuple britannique
+relevance = 0.851145
+Keyword :RT @nicolasbayfn
+Negative count 
+21
+Positive count 
+2
+Neutral count 
+19
